@@ -1,0 +1,92 @@
+.tarjet1{
+    box-sizing: border-box;
+    display: inline-block;
+    border-color: #212529;
+    border-style: double;
+    margin: 20px;
+    max-width: 50%;
+    box-sizing: content-box;
+    margin: 10px;   
+    >.fotos{
+        max-width: 200px;
+        box-sizing: content-box;
+    }
+    >.btncompra{
+        @include button2(red,white)
+    }
+}
+.tarjet3{
+    box-sizing: border-box;
+    display: inline-block;
+    border-color: #212529;
+    border-style: double;
+    margin: 20px;
+    max-width: 50%;
+    box-sizing: content-box;
+    margin: 10px;   
+    >.fotos{
+        max-width: 200px;
+        box-sizing: content-box;
+    }
+}
+.dragon{
+    margin: 0;
+    padding: 10px;
+    box-sizing: content-box;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    row-gap: 10px;
+    border-color: black;
+    border-style: dashed;
+    height: 20%;
+}
+.playa{
+    margin: 0;
+    padding: 10px;
+    box-sizing: content-box;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    row-gap: 10px;
+    border-color: black;
+    border-style: dashed;
+    height: 20%;
+     }
+.uni{
+    margin: 0;
+    padding: 10px;
+    box-sizing: content-box;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    row-gap: 10px;
+    border-color: black;
+    border-style: dashed;
+    height: 20%;    
+}
+.lego{
+    margin: 0;
+    padding: 10px;
+    box-sizing: content-box;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    row-gap: 10px;
+    border-color: black;
+    border-style: dashed;
+    height: 20%;    
+    }
+.barbie{
+    margin: 0;
+    padding: 10px;
+    box-sizing: content-box;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    row-gap: 10px;
+    border-color: black;
+    border-style: dashed;
+    height: 20%;    
+
+}    
