@@ -1,0 +1,43 @@
+.main{
+    margin-top: 40px;
+    display: flex;
+    background-color: white;    
+    row-gap: 20px;
+    max-width: 100%;
+    box-sizing: content-box;
+    justify-content: space-between;
+    padding: 12%;
+     }
+    @media (min-width:800px) {
+        .main{
+            margin: 0%;
+            box-sizing: content-box;
+            align-items: center;
+        }
+    }
+    @media (min-width:1300px) {
+        .main{
+            margin: 10px;
+            box-sizing: content-box;
+            padding: 20px;
+            align-items: flex-start;
+        }
+ }
+ .main2{
+    display: flex;
+    background-color: white;    
+    row-gap: 10px;
+    max-width: 100%;
+    box-sizing: content-box;
+    justify-content: space-between;
+ }
+ .aside{
+    max-width: 20%;
+    margin-top: 50%;
+ }
+ .main3{ 
+    background-color: white;    
+    row-gap: 10px;
+    max-width: 100%;
+    row-gap: 10px;
+ }

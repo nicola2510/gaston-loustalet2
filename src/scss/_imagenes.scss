@@ -1,0 +1,15 @@
+div{
+    box-sizing: content-box;
+      > img{
+         display: flex;
+         box-sizing: content-box;
+      }
+}
+
+.descrip{
+    margin: 0%;
+    color: black;
+    font-weight: 50px;
+    font-size: 30px;
+    padding: 1px 2px 5px 32px;
+    }
