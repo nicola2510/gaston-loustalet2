@@ -1,7 +1,7 @@
 @import "reset";
 @import "cabecera";
-@import "main";
 @import "body";
+@import "main";
 @import "pie";
 @import "btn";
 @import"mixin";
@@ -21,6 +21,6 @@
     padding: 0;
 }
 .formulario{
-    background-color: aquamarine;
+    background-color: #6351ce;
     border-radius: 10px;
 }

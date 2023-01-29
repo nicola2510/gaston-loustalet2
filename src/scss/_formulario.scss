@@ -1,7 +1,9 @@
-form{
-    box-sizing: content-box;
-    > div{
-        text-align: center;
-        max-width: 50%;
+.formulario{
+        background-color: #6351ce;
+        border-radius: 10px;
+          > div{
+             text-align: center;
+             max-width: 50%;
     }
+
 }
